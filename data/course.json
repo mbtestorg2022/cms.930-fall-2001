@@ -14,6 +14,8 @@
       "Educational Technology"
     ]
   ],
+  "s3_path": "",
+  "url_path": "",
   "legacy_uid": "dcac9d6d-a4e3-96dc-ab84-f968790320d4",
   "instructors": {
     "content": [
@@ -28,6 +30,7 @@
   "course_title": "Media, Education, and the Marketplace",
   "course_description": "How can we harness the emerging forms of interactive media to enhance the learning process? Professor Miyagawa and prominent guest speakers will explore a broad range of issues on new media and learning - technical, social, and business. Concrete examples of use of media will be presented as case studies. One major theme, though not the only one, is that today's youth, influenced by video games and other emerging interactive media forms, are acquiring a fundamentally different attitude towards media. Media is, for them, not something to be consumed, but also to be created. This has broad consequences for how we design media, how the young are taught in schools, and how mass media markets will need to adjust.\n",
   "department_numbers": [
+    "CMS-W",
     "21G"
   ],
   "extra_course_numbers": "21G.034",

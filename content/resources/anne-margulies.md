@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#am)'
+resource_index_text: ''
 resourcetype: Video
 title: Anne Margulies
 uid: 1a712491-0cb2-0e2f-f103-a413e2c48759

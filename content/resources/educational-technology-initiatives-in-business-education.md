@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography)'
+resource_index_text: ''
 resourcetype: Video
 title: Educational Technology Initiatives in Business Education
 uid: cb81888f-7c0e-4eef-d35b-5d6c2f7d25d8

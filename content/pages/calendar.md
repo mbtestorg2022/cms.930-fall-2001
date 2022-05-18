@@ -1,19 +1,125 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: bf540226-54a9-3232-8238-9b813b3f74aa
 ---
 
-| Week # | Topics |
-| --- | --- |
-| 1 | Organization of the Course |
-| 2 | Personal Media - Starfestival |
-| 3 | Issues of Digital Divide |
-| 4 | Guest Speaker: Nolan Bowie |
-| 5 | Being inclusive  {{< br >}}Guest Speaker: Brenda Matthis |
-| 6 | Midterm presentations on issues of access |
-| 7 | Midterm presentations on issues of access |
-| 8 | Trials and tribulations of multimedia learning environments  {{< br >}}Guest Speaker: John Belcher |
-| 9 | A New Model for e-Learning: MIT's OpenCourseWare  {{< br >}}Guest Speaker: Anne Margulies |
-| 10 | Guest Speaker: Lisa Neal |
-| 11 | Final Project Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Organization of the Course
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Personal Media - Starfestival
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Issues of Digital Divide
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Nolan Bowie
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Being inclusive  
+Guest Speaker: Brenda Matthis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm presentations on issues of access
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm presentations on issues of access
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Trials and tribulations of multimedia learning environments  
+Guest Speaker: John Belcher
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+A New Model for e-Learning: MIT's OpenCourseWare  
+Guest Speaker: Anne Margulies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speaker: Lisa Neal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

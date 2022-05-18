@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#rm)'
+resource_index_text: ''
 resourcetype: Video
 title: 'Next Big Thing: Video Internet'
 uid: 7fa7aad4-7dd1-2bb8-5ada-184c2d49d968

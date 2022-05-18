@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Reading List](pages/readings)  \n[Biography](video_galleries/video-lectures/biography)"
+resource_index_text: ''
 resourcetype: Video
 title: Introducing the StarFestival Curriculum
 uid: 4d11df8f-26b4-f6aa-ebe7-db84c947917a

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a27a0d0c-9f0c-70f6-e1f3-022b3a5eeaa2
 ---
@@ -34,11 +36,48 @@ Many other readings assigned in the syllabus (websites) and in class
 Course Grade
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 35% |
-| Mid-term project - critical analysis of work/works related to digital divide (list to be given in class) | 45% |
-| Final project - a project, in any medium, on a topic related to the issues covered | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term project - critical analysis of work/works related to digital divide (list to be given in class)
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project - a project, in any medium, on a topic related to the issues covered
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

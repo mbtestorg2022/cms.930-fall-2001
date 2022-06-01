@@ -7,9 +7,7 @@ uid: a27a0d0c-9f0c-70f6-e1f3-022b3a5eeaa2
 ---
 Course Meeting Times
 --------------------
-
-
-{{< resource uuid="52939f13-c2d3-d706-ee54-f12ea68c4a60" href="{{< baseurl >}}/resources/anim5" >}}
+[{{< resource ""52939f13-c2d3-d706-ee54-f12ea68c4a60"" >}}]({{< baseurl >}}/resources/anim5)
 {{< resource uuid="a6332a91-0b32-1ef8-906f-c8929fdb4c89" href="/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator" >}}
 
 Lectures: 1 session / week, 3 hours / session

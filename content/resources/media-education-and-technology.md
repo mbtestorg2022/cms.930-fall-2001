@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Reading List](pages/readings)  \n[Biography](video_galleries/video-lectures/biography#bb)"
+resource_index_text: ''
 resourcetype: Video
 title: Media, Education, and Technology
 uid: 047c1e9b-9640-c9d5-b7f3-d5cef202f579

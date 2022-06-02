@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#hj)'
+resource_index_text: ''
 resourcetype: Video
 title: Media Literacy as a Strategy for Combatting Moral Panic
 uid: 586898c9-b120-bec8-7672-ad3424620bb2

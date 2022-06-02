@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#bm)'
+resource_index_text: ''
 resourcetype: Video
 title: Brenda Matthis
 uid: cb5f9fad-b408-d863-bc07-8e006da99412

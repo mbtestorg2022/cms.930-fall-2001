@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#jb)'
+resource_index_text: ''
 resourcetype: Video
 title: John Belcher
 uid: aeec3a80-b177-84a1-4d39-fab1d69aa5e5

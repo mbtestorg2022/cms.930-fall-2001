@@ -1,11 +1,14 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a27a0d0c-9f0c-70f6-e1f3-022b3a5eeaa2
 ---
-
 Course Meeting Times
 --------------------
+[{{< resource ""52939f13-c2d3-d706-ee54-f12ea68c4a60"" >}}]({{< baseurl >}}/resources/anim5)
+{{< resource uuid="a6332a91-0b32-1ef8-906f-c8929fdb4c89" href="/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator" >}}
 
 Lectures: 1 session / week, 3 hours / session
 
@@ -34,11 +37,48 @@ Many other readings assigned in the syllabus (websites) and in class
 Course Grade
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 35% |
-| Mid-term project - critical analysis of work/works related to digital divide (list to be given in class) | 45% |
-| Final project - a project, in any medium, on a topic related to the issues covered | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term project - critical analysis of work/works related to digital divide (list to be given in class)
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project - a project, in any medium, on a topic related to the issues covered
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

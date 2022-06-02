@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: '[Biography](video_galleries/video-lectures/biography#sl)'
+resource_index_text: ''
 resourcetype: Video
 title: Educational Uses of Technology
 uid: fb93da14-2351-2eb4-01b3-f9a93dd6ab50

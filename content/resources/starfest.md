@@ -7,6 +7,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: starfest.gif
 uid: 6f3f79d1-eae7-8269-f51d-6d3a549ac87b

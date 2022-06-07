@@ -25,3 +25,4 @@ video_metadata:
 **Topics covered:** Media, Education, and Technology
 
 **Speaker:** Bonnie Bracey
+

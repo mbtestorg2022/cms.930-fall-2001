@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Personal Media
 
 **Speaker:** Shigeru Miyagawa
-

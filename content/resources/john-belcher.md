@@ -23,4 +23,3 @@ video_metadata:
 ---
 
 **Speaker:** John Belcher
-

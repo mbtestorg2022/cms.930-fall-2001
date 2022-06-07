@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Discussion of StarFestival
 
 **Speaker:** Shigeru Miyagawa
-

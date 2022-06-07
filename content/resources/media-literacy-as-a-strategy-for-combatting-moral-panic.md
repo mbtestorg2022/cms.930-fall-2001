@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Media Literacy as a Strategy for Combatting Moral Panic
 
 **Speaker:** Henry Jenkins
-

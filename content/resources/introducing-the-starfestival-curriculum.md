@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Introducing the StarFestival curriculum
 
 **Speaker:** Shigeru Miyagawa
-

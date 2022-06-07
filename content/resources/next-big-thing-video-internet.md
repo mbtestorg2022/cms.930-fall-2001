@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Next Big Thing: Video Internet
 
 **Speaker:** Robert Metcalfe
-

@@ -25,4 +25,3 @@ video_metadata:
 **Topics covered:** Educational Technology Initiatives in Business Education in the Sloan School of Management, MIT  
   
 **Speaker:** Toby Woll
-

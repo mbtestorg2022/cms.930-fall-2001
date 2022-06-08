@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -9,7 +10,6 @@ parent_uid: 898de8cf-f8f2-4b12-30d7-419ba4d710ab
 title: Speaker Biographies
 uid: 39779109-51d8-a3e8-4bec-7006f6bb5cad
 ---
-
 {{< anchor "top" >}}{{< /anchor >}}
 
 [Shigeru Miyagawa](#sm) | [Robert Metcalfe](#rm) | [Bonnie Bracey](#bb) | [Steve Lerman](#sl) | [Henry Jenkins](#hj) | [Toby Woll](#tw) |  
